@@ -164,7 +164,7 @@ class NavBar extends Component {
   render() {
     return (
       <nav className="navbar navbar-expand navbar-dark bg-dark">
-        <a className="navbar-brand h1 mb-0" href="/">
+        <a className="navbar-brand h1 mb-0" href="https://avdhesh11.github.io/pathfinding-visualizer/">
           {brand}
         </a>
         <div className="collapse navbar-collapse" id="navbarNavDropdown">
